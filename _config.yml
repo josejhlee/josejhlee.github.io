@@ -94,8 +94,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "이주헌, Jose Lee"
-  avatar           : "/assets/images/profile_pic.jpg"
+  name             : "이주헌"
+  avatar           : "/assets/profile_pic.jpg"
   bio              : ""
   location         : "South Korea"
   email            : "josejhlee@hotmail.com"
